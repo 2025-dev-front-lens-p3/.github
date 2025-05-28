@@ -1,8 +1,8 @@
-# 🌟 Simplon — Promo Développeur·se Front-End
+<img src="../images/logo_simplon.png" alt="SIMPLON" width="50" /> # Simplon — Promo Développeur·se Front-End
 
 Bienvenue dans l’organisation GitHub dédiée à la formation **Développeur·se Front-End** de Simplon.
 
-<img src="../images/logo_simplon.png" alt="SIMPLON" width="50" />
+
 
 Ce dépôt centralise :
 - les projets réalisés par les apprenant·e·s,
