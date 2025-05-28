@@ -1,5 +1,4 @@
-<img src="../images/logo_simplon.png" alt="SIMPLON" width="50" />
-<h1>Simplon — Promo Développeur·se Front-End</h1>
+<img src="../images/logo_simplon.png" alt="SIMPLON" width="50" /> <h1>Simplon — Promo Développeur·se Front-End</h1>
 
 Bienvenue dans l’organisation GitHub dédiée à la formation **Développeur·se Front-End** de Simplon.
 
