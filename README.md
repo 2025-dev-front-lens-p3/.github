@@ -57,7 +57,7 @@ Cette promo utilise :
 - **Git & GitHub** pour versionner et collaborer
 - **Discord** pour la communication
 - **Simplonline** pour le suivi pédagogique
-- **Trello** pour la gestion de projet
+- **GitHub Projects** pour la gestion de projet
 - **Google Meet** pour les points synchrones
 
 ---
