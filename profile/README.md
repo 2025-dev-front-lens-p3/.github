@@ -34,6 +34,15 @@ Former des développeur·se·s front-end capables de :
 
 ---
 
+## ⭐ Nos projets réalisés
+
+| Brief / Apprenant | [Aledorian](https://github.com/Aledorian) | [Florent](https://github.com/Florent) | [Grégoire](https://github.com/Grégoire) | [Julie](https://github.com/Julie) | [Marine](https://github.com/Marine) | [Maryline](https://github.com/Maryline) | [Maxence](https://github.com/Maxence) | [Perrine](https://github.com/Perrine) | [Philippe](https://github.com/Philippe) | [Sacha](https://github.com/Sacha) | [Térence](https://github.com/Terence) | [Yohann](https://github.com/Yohann) | [Hugo](https://github.com/Hugo) | [Noémie](https://github.com/Noemie) | [Léo](https://github.com/Leo) |
+|------------------|--------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------|-------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|----------------------------|-----------------------------|-----------------------------|----------------------------|-----------------------------|-------------------------|
+| [À propos de moi](https://github.com/2025-dev-front-lens-p3/brief-phase-1-about-me) | | | | | | | | | | | | | | | |
+
+
+---
+
 ## 🧰 Technologies utilisées
 
 Voir le tableau des technologies utilisées par phase :
