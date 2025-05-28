@@ -2,7 +2,7 @@
 
 Bienvenue dans l’organisation GitHub dédiée à la formation **Développeur·se Front-End** de Simplon.
 
-![SIMPLON](images/logo_simplon.png)
+![SIMPLON](../images/logo_simplon.png)
 
 Ce dépôt centralise :
 - les projets réalisés par les apprenant·e·s,
